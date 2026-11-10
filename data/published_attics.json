@@ -64,5 +64,38 @@
     "nfa_sqft": 7.8,
     "nfa_sqin": 1123,
     "date": "2026-11-10"
+  },
+  {
+    "attic_name": "QuietCool CL-7000 Classic (6,966 CFM) Estate Whole-House Fan",
+    "slug": "quietcool-cl-7000-classic-6966-cfm-estate-whole-house-fan-whole-house-fan-nfa-calculator",
+    "title": "QuietCool CL-7000 Classic (6,966 CFM) Estate Whole-House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (6,966 CFM / 13.9 ACH), 1:750 attic exhaust Net Free Area (9.3 sq ft / 1,339 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool CL-7000 Classic (6,966 CFM) Estate Whole-House Fan.",
+    "sqft": 3000,
+    "cfm": 6966,
+    "nfa_sqft": 9.3,
+    "nfa_sqin": 1339,
+    "date": "2026-11-10"
+  },
+  {
+    "attic_name": "QuietCool ES-5400 & ES-7000 Energy Saver ECM Brushless Fan",
+    "slug": "quietcool-es-5400-es-7000-energy-saver-ecm-brushless-fan-whole-house-fan-nfa-calculator",
+    "title": "QuietCool ES-5400 & ES-7000 Energy Saver ECM Brushless Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,351 CFM / 14.9 ACH), 1:750 attic exhaust Net Free Area (7.1 sq ft / 1,022 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool ES-5400 & ES-7000 Energy Saver ECM Brushless Fan.",
+    "sqft": 2400,
+    "cfm": 5351,
+    "nfa_sqft": 7.1,
+    "nfa_sqin": 1022,
+    "date": "2026-11-10"
+  },
+  {
+    "attic_name": "QuietCool Trident Pro-4.8X & Pro-5.5X High-Airflow Fan",
+    "slug": "quietcool-trident-pro-48x-pro-55x-high-airflow-fan-whole-house-fan-nfa-calculator",
+    "title": "QuietCool Trident Pro-4.8X & Pro-5.5X High-Airflow Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,440 CFM / 16.5 ACH), 1:750 attic exhaust Net Free Area (7.3 sq ft / 1,051 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool Trident Pro-4.8X & Pro-5.5X High-Airflow Fan.",
+    "sqft": 2200,
+    "cfm": 5440,
+    "nfa_sqft": 7.3,
+    "nfa_sqin": 1051,
+    "date": "2026-11-10"
   }
 ]
