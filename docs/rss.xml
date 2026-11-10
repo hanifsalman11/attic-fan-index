@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AtticFanIndex Whole-House Fan & Attic Ventilation Database</title>
+    <link>https://hanifsalman11.github.io/attic-fan-index/</link>
+    <description>Interactive Whole-House Fan CFM, Attic Net Free Area (NFA) & IRC R806.2 Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/attic-fan-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>QuietCool CL-3100 Classic (3,078 CFM) Whole-House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/attic-fan-index/quietcool-cl-3100-classic-3078-cfm-whole-house-fan-whole-house-fan-nfa-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/attic-fan-index/quietcool-cl-3100-classic-3078-cfm-whole-house-fan-whole-house-fan-nfa-calculator.html</guid>
+      <description>Calculate exact whole-house fan airflow (3,078 CFM / 17.8 ACH), 1:750 attic exhaust Net Free Area (4.1 sq ft / 590 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool CL-3100 Classic (3,078 CFM) Whole-House Fan.</description>
+    </item>
+    <item>
+      <title>QuietCool CL-2250 Classic (2,256 CFM) Whole-House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/attic-fan-index/quietcool-cl-2250-classic-2256-cfm-whole-house-fan-whole-house-fan-nfa-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/attic-fan-index/quietcool-cl-2250-classic-2256-cfm-whole-house-fan-whole-house-fan-nfa-calculator.html</guid>
+      <description>Calculate exact whole-house fan airflow (2,256 CFM / 17.8 ACH), 1:750 attic exhaust Net Free Area (3.0 sq ft / 432 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool CL-2250 Classic (2,256 CFM) Whole-House Fan.</description>
+    </item>
+    <item>
+      <title>QuietCool CL-1500 Classic (1,472 CFM) Bedroom Whole-House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/attic-fan-index/quietcool-cl-1500-classic-1472-cfm-bedroom-whole-house-fan-whole-house-fan-nfa-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/attic-fan-index/quietcool-cl-1500-classic-1472-cfm-bedroom-whole-house-fan-whole-house-fan-nfa-calculator.html</guid>
+      <description>Calculate exact whole-house fan airflow (1,472 CFM / 17.0 ACH), 1:750 attic exhaust Net Free Area (2.0 sq ft / 288 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool CL-1500 Classic (1,472 CFM) Bedroom Whole-House Fan.</description>
+    </item>
+  </channel>
+</rss>

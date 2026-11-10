@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AtticFanIndex — Whole-House Fan CFM, Attic Net Free Area (NFA) & IRC R806.2 Calculator (2026)</title>
+  <meta name="description" content="Calculate exact whole-house fan CFM, 1:750 attic exhaust Net Free Vent Area (NFA), and IRC R806.2 1:150 / 1:300 soffit and ridge vent counts for QuietCool, AirScape, CentricAir, and solar roof ventilators.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/attic-fan-index/">
+  <link rel="alternate" type="application/rss+xml" title="AtticFanIndex RSS Feed" href="https://hanifsalman11.github.io/attic-fan-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-sky-500 text-slate-950 px-2 py-0.5 rounded font-black">ATTIC</span>FanIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=QuietCool%2BWhole%2BHouse%2BFan%2BSolar%2BAttic%2BVentilator%2BRidge%2BSoffit%2BVent&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-sky-500 hover:bg-sky-400 text-slate-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Whole-House Fans & Attic Vents on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Whole-House Fan CFM, Attic Net Free Area & Vent Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your whole-house fan model or home square footage below to calculate 15–22 ACH cooling airflow, 1:750 Net Free Vent Area (NFA), and IRC R806.2 soffit/ridge vent balance.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search fan model or home size (e.g. QuietCool CL-4700, CL-5400, AirScape, 2000 Sq Ft Home, Soffit Vents, Solar Fan...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-sky-500">
+      </div>
+    </div>
+
+    <div id="atticGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="quietcool-cl-3100-classic-3078-cfm-whole-house-fan-whole-house-fan-nfa-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-sky-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-sky-500 text-slate-950 px-2.5 py-0.5 rounded">3,078 CFM (1,300 ft²)</span>
+            <span class="text-xs text-slate-400">NFA: 4.1 ft² (590 in²)</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-sky-400 transition">QuietCool CL-3100 Classic (3,078 CFM) Whole-House Fan</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact whole-house fan airflow (3,078 CFM / 17.8 ACH), 1:750 attic exhaust Net Free Area (4.1 sq ft / 590 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool CL-3100 Classic (3,078 CFM) Whole-House Fan.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-sky-400">Calculate CFM, NFA & Soffit/Ridge Vents →</span>
+        </a>
+        <a href="quietcool-cl-2250-classic-2256-cfm-whole-house-fan-whole-house-fan-nfa-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-sky-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-sky-500 text-slate-950 px-2.5 py-0.5 rounded">2,256 CFM (950 ft²)</span>
+            <span class="text-xs text-slate-400">NFA: 3.0 ft² (432 in²)</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-sky-400 transition">QuietCool CL-2250 Classic (2,256 CFM) Whole-House Fan</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact whole-house fan airflow (2,256 CFM / 17.8 ACH), 1:750 attic exhaust Net Free Area (3.0 sq ft / 432 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool CL-2250 Classic (2,256 CFM) Whole-House Fan.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-sky-400">Calculate CFM, NFA & Soffit/Ridge Vents →</span>
+        </a>
+        <a href="quietcool-cl-1500-classic-1472-cfm-bedroom-whole-house-fan-whole-house-fan-nfa-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-sky-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-sky-500 text-slate-950 px-2.5 py-0.5 rounded">1,472 CFM (650 ft²)</span>
+            <span class="text-xs text-slate-400">NFA: 2.0 ft² (288 in²)</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-sky-400 transition">QuietCool CL-1500 Classic (1,472 CFM) Bedroom Whole-House Fan</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact whole-house fan airflow (1,472 CFM / 17.0 ACH), 1:750 attic exhaust Net Free Area (2.0 sq ft / 288 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool CL-1500 Classic (1,472 CFM) Bedroom Whole-House Fan.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-sky-400">Calculate CFM, NFA & Soffit/Ridge Vents →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 AtticFanIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('atticGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
