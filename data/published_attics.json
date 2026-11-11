@@ -97,5 +97,38 @@
     "nfa_sqft": 7.3,
     "nfa_sqin": 1051,
     "date": "2026-11-10"
+  },
+  {
+    "attic_name": "QuietCool RM-WHF-4.0 Roof-Mount Ductless Whole-House Fan",
+    "slug": "quietcool-rm-whf-40-roof-mount-ductless-whole-house-fan-whole-house-fan-nfa-calculator",
+    "title": "QuietCool RM-WHF-4.0 Roof-Mount Ductless Whole-House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (3,810 CFM / 16.8 ACH), 1:750 attic exhaust Net Free Area (5.1 sq ft / 734 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool RM-WHF-4.0 Roof-Mount Ductless Whole-House Fan.",
+    "sqft": 1700,
+    "cfm": 3810,
+    "nfa_sqft": 5.1,
+    "nfa_sqin": 734,
+    "date": "2026-11-11"
+  },
+  {
+    "attic_name": "QuietCool AFR-SMT-2.0 Smart Attic Gable/Roof Exhaust Fan",
+    "slug": "quietcool-afr-smt-20-smart-attic-gableroof-exhaust-fan-whole-house-fan-nfa-calculator",
+    "title": "QuietCool AFR-SMT-2.0 Smart Attic Gable/Roof Exhaust Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (1,945 CFM / 7.3 ACH), 1:750 attic exhaust Net Free Area (2.6 sq ft / 374 sq in NFA), and IRC R806.2 soffit/ridge vents for QuietCool AFR-SMT-2.0 Smart Attic Gable/Roof Exhaust Fan.",
+    "sqft": 2000,
+    "cfm": 1945,
+    "nfa_sqft": 2.6,
+    "nfa_sqin": 374,
+    "date": "2026-11-11"
+  },
+  {
+    "attic_name": "AirScape 2.5e & 3.5e (2,600 / 3,420 CFM) Whole-House Fan",
+    "slug": "airscape-25e-35e-2600-3420-cfm-whole-house-fan-whole-house-fan-nfa-calculator",
+    "title": "AirScape 2.5e & 3.5e (2,600 / 3,420 CFM) Whole-House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (3,420 CFM / 18.3 ACH), 1:750 attic exhaust Net Free Area (4.6 sq ft / 662 sq in NFA), and IRC R806.2 soffit/ridge vents for AirScape 2.5e & 3.5e (2,600 / 3,420 CFM) Whole-House Fan.",
+    "sqft": 1400,
+    "cfm": 3420,
+    "nfa_sqft": 4.6,
+    "nfa_sqin": 662,
+    "date": "2026-11-11"
   }
 ]
