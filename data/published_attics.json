@@ -130,5 +130,38 @@
     "nfa_sqft": 4.6,
     "nfa_sqin": 662,
     "date": "2026-11-11"
+  },
+  {
+    "attic_name": "AirScape 4.4e & 5.3e (4,350 / 5,180 CFM) Whole-House Fan",
+    "slug": "airscape-44e-53e-4350-5180-cfm-whole-house-fan-whole-house-fan-nfa-calculator",
+    "title": "AirScape 4.4e & 5.3e (4,350 / 5,180 CFM) Whole-House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,180 CFM / 16.4 ACH), 1:750 attic exhaust Net Free Area (6.9 sq ft / 994 sq in NFA), and IRC R806.2 soffit/ridge vents for AirScape 4.4e & 5.3e (4,350 / 5,180 CFM) Whole-House Fan.",
+    "sqft": 2100,
+    "cfm": 5180,
+    "nfa_sqft": 6.9,
+    "nfa_sqin": 994,
+    "date": "2026-11-11"
+  },
+  {
+    "attic_name": "CentricAir 2.7 & 3.4 (2,700 / 3,400 CFM) Whole-House Fan",
+    "slug": "centricair-27-34-2700-3400-cfm-whole-house-fan-whole-house-fan-nfa-calculator",
+    "title": "CentricAir 2.7 & 3.4 (2,700 / 3,400 CFM) Whole-House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (3,400 CFM / 17.0 ACH), 1:750 attic exhaust Net Free Area (4.5 sq ft / 648 sq in NFA), and IRC R806.2 soffit/ridge vents for CentricAir 2.7 & 3.4 (2,700 / 3,400 CFM) Whole-House Fan.",
+    "sqft": 1500,
+    "cfm": 3400,
+    "nfa_sqft": 4.5,
+    "nfa_sqin": 648,
+    "date": "2026-11-11"
+  },
+  {
+    "attic_name": "CentricAir 4.0 & 5.2 (4,000 / 5,200 CFM) Dual-Speed Fan",
+    "slug": "centricair-40-52-4000-5200-cfm-dual-speed-fan-whole-house-fan-nfa-calculator",
+    "title": "CentricAir 4.0 & 5.2 (4,000 / 5,200 CFM) Dual-Speed Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,200 CFM / 15.8 ACH), 1:750 attic exhaust Net Free Area (6.9 sq ft / 994 sq in NFA), and IRC R806.2 soffit/ridge vents for CentricAir 4.0 & 5.2 (4,000 / 5,200 CFM) Dual-Speed Fan.",
+    "sqft": 2200,
+    "cfm": 5200,
+    "nfa_sqft": 6.9,
+    "nfa_sqin": 994,
+    "date": "2026-11-11"
   }
 ]
