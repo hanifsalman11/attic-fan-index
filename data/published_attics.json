@@ -163,5 +163,38 @@
     "nfa_sqft": 6.9,
     "nfa_sqin": 994,
     "date": "2026-11-11"
+  },
+  {
+    "attic_name": "QA-Deluxe 4800 & 5500 Belt/Direct-Drive Whole-House Fan",
+    "slug": "qa-deluxe-4800-5500-beltdirect-drive-whole-house-fan-whole-house-fan-nfa-calculator",
+    "title": "QA-Deluxe 4800 & 5500 Belt/Direct-Drive Whole-House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (4,800 CFM / 16.0 ACH), 1:750 attic exhaust Net Free Area (6.4 sq ft / 922 sq in NFA), and IRC R806.2 soffit/ridge vents for QA-Deluxe 4800 & 5500 Belt/Direct-Drive Whole-House Fan.",
+    "sqft": 2000,
+    "cfm": 4800,
+    "nfa_sqft": 6.4,
+    "nfa_sqin": 922,
+    "date": "2026-11-12"
+  },
+  {
+    "attic_name": "Master Flow & Broan 1,500 CFM Powered Attic Gable Ventilator",
+    "slug": "master-flow-broan-1500-cfm-powered-attic-gable-ventilator-whole-house-fan-nfa-calculator",
+    "title": "Master Flow & Broan 1,500 CFM Powered Attic Gable Ventilator CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (1,500 CFM / 6.2 ACH), 1:750 attic exhaust Net Free Area (2.0 sq ft / 288 sq in NFA), and IRC R806.2 soffit/ridge vents for Master Flow & Broan 1,500 CFM Powered Attic Gable Ventilator.",
+    "sqft": 1800,
+    "cfm": 1500,
+    "nfa_sqft": 2.0,
+    "nfa_sqin": 288,
+    "date": "2026-11-12"
+  },
+  {
+    "attic_name": "Remington Solar 30-Watt & 40-Watt (2,250 CFM) Roof Attic Fan",
+    "slug": "remington-solar-30-watt-40-watt-2250-cfm-roof-attic-fan-whole-house-fan-nfa-calculator",
+    "title": "Remington Solar 30-Watt & 40-Watt (2,250 CFM) Roof Attic Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (2,250 CFM / 7.7 ACH), 1:750 attic exhaust Net Free Area (3.0 sq ft / 432 sq in NFA), and IRC R806.2 soffit/ridge vents for Remington Solar 30-Watt & 40-Watt (2,250 CFM) Roof Attic Fan.",
+    "sqft": 2200,
+    "cfm": 2250,
+    "nfa_sqft": 3.0,
+    "nfa_sqin": 432,
+    "date": "2026-11-12"
   }
 ]
