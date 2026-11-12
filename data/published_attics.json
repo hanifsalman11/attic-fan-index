@@ -196,5 +196,38 @@
     "nfa_sqft": 3.0,
     "nfa_sqin": 432,
     "date": "2026-11-12"
+  },
+  {
+    "attic_name": " Natural Light 35W & 65W Commercial Solar Attic Ventilator",
+    "slug": "natural-light-35w-65w-commercial-solar-attic-ventilator-whole-house-fan-nfa-calculator",
+    "title": " Natural Light 35W & 65W Commercial Solar Attic Ventilator CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (2,460 CFM / 6.6 ACH), 1:750 attic exhaust Net Free Area (3.3 sq ft / 475 sq in NFA), and IRC R806.2 soffit/ridge vents for  Natural Light 35W & 65W Commercial Solar Attic Ventilator.",
+    "sqft": 2500,
+    "cfm": 2460,
+    "nfa_sqft": 3.3,
+    "nfa_sqin": 475,
+    "date": "2026-11-12"
+  },
+  {
+    "attic_name": "GAF Cobra SnowCountry Ridge Vent & Undereave Soffit Sizing",
+    "slug": "gaf-cobra-snowcountry-ridge-vent-undereave-soffit-sizing-whole-house-fan-nfa-calculator",
+    "title": "GAF Cobra SnowCountry Ridge Vent & Undereave Soffit Sizing CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (4,500 CFM / 16.9 ACH), 1:750 attic exhaust Net Free Area (6.0 sq ft / 864 sq in NFA), and IRC R806.2 soffit/ridge vents for GAF Cobra SnowCountry Ridge Vent & Undereave Soffit Sizing.",
+    "sqft": 2000,
+    "cfm": 4500,
+    "nfa_sqft": 6.0,
+    "nfa_sqin": 864,
+    "date": "2026-11-12"
+  },
+  {
+    "attic_name": "1,200 Sq Ft Home & Attic Whole-House Fan & NFA Sizing",
+    "slug": "1200-sq-ft-home-attic-whole-house-fan-nfa-sizing-whole-house-fan-nfa-calculator",
+    "title": "1,200 Sq Ft Home & Attic Whole-House Fan & NFA Sizing CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (3,000 CFM / 18.8 ACH), 1:750 attic exhaust Net Free Area (4.0 sq ft / 576 sq in NFA), and IRC R806.2 soffit/ridge vents for 1,200 Sq Ft Home & Attic Whole-House Fan & NFA Sizing.",
+    "sqft": 1200,
+    "cfm": 3000,
+    "nfa_sqft": 4.0,
+    "nfa_sqin": 576,
+    "date": "2026-11-12"
   }
 ]
