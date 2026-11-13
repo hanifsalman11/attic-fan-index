@@ -262,5 +262,38 @@
     "nfa_sqft": 6.7,
     "nfa_sqin": 965,
     "date": "2026-11-13"
+  },
+  {
+    "attic_name": "2,400 Sq Ft Two-Story Home Whole-House Fan & NFA Sizing",
+    "slug": "2400-sq-ft-two-story-home-whole-house-fan-nfa-sizing-whole-house-fan-nfa-calculator",
+    "title": "2,400 Sq Ft Two-Story Home Whole-House Fan & NFA Sizing CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (6,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (8.0 sq ft / 1,152 sq in NFA), and IRC R806.2 soffit/ridge vents for 2,400 Sq Ft Two-Story Home Whole-House Fan & NFA Sizing.",
+    "sqft": 2400,
+    "cfm": 6000,
+    "nfa_sqft": 8.0,
+    "nfa_sqin": 1152,
+    "date": "2026-11-13"
+  },
+  {
+    "attic_name": "2,800 Sq Ft Two-Story Home Whole-House Fan & NFA Sizing",
+    "slug": "2800-sq-ft-two-story-home-whole-house-fan-nfa-sizing-whole-house-fan-nfa-calculator",
+    "title": "2,800 Sq Ft Two-Story Home Whole-House Fan & NFA Sizing CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (7,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (9.3 sq ft / 1,339 sq in NFA), and IRC R806.2 soffit/ridge vents for 2,800 Sq Ft Two-Story Home Whole-House Fan & NFA Sizing.",
+    "sqft": 2800,
+    "cfm": 7000,
+    "nfa_sqft": 9.3,
+    "nfa_sqin": 1339,
+    "date": "2026-11-13"
+  },
+  {
+    "attic_name": "3,500 Sq Ft Large Home Dual Whole-House Fan & NFA Sizing",
+    "slug": "3500-sq-ft-large-home-dual-whole-house-fan-nfa-sizing-whole-house-fan-nfa-calculator",
+    "title": "3,500 Sq Ft Large Home Dual Whole-House Fan & NFA Sizing CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (8,750 CFM / 15.0 ACH), 1:750 attic exhaust Net Free Area (11.7 sq ft / 1,685 sq in NFA), and IRC R806.2 soffit/ridge vents for 3,500 Sq Ft Large Home Dual Whole-House Fan & NFA Sizing.",
+    "sqft": 3500,
+    "cfm": 8750,
+    "nfa_sqft": 11.7,
+    "nfa_sqin": 1685,
+    "date": "2026-11-13"
   }
 ]
