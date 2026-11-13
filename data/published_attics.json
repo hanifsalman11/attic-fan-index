@@ -229,5 +229,38 @@
     "nfa_sqft": 4.0,
     "nfa_sqin": 576,
     "date": "2026-11-12"
+  },
+  {
+    "attic_name": "1,500 Sq Ft Home & Attic Whole-House Fan & NFA Sizing",
+    "slug": "1500-sq-ft-home-attic-whole-house-fan-nfa-sizing-whole-house-fan-nfa-calculator",
+    "title": "1,500 Sq Ft Home & Attic Whole-House Fan & NFA Sizing CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (3,750 CFM / 18.8 ACH), 1:750 attic exhaust Net Free Area (5.0 sq ft / 720 sq in NFA), and IRC R806.2 soffit/ridge vents for 1,500 Sq Ft Home & Attic Whole-House Fan & NFA Sizing.",
+    "sqft": 1500,
+    "cfm": 3750,
+    "nfa_sqft": 5.0,
+    "nfa_sqin": 720,
+    "date": "2026-11-13"
+  },
+  {
+    "attic_name": "1,800 Sq Ft Home & Attic Whole-House Fan & NFA Sizing",
+    "slug": "1800-sq-ft-home-attic-whole-house-fan-nfa-sizing-whole-house-fan-nfa-calculator",
+    "title": "1,800 Sq Ft Home & Attic Whole-House Fan & NFA Sizing CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (4,500 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.0 sq ft / 864 sq in NFA), and IRC R806.2 soffit/ridge vents for 1,800 Sq Ft Home & Attic Whole-House Fan & NFA Sizing.",
+    "sqft": 1800,
+    "cfm": 4500,
+    "nfa_sqft": 6.0,
+    "nfa_sqin": 864,
+    "date": "2026-11-13"
+  },
+  {
+    "attic_name": "2,000 Sq Ft Home & Attic Whole-House Fan & NFA Sizing",
+    "slug": "2000-sq-ft-home-attic-whole-house-fan-nfa-sizing-whole-house-fan-nfa-calculator",
+    "title": "2,000 Sq Ft Home & Attic Whole-House Fan & NFA Sizing CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for 2,000 Sq Ft Home & Attic Whole-House Fan & NFA Sizing.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-13"
   }
 ]
