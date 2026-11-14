@@ -295,5 +295,38 @@
     "nfa_sqft": 11.7,
     "nfa_sqin": 1685,
     "date": "2026-11-13"
+  },
+  {
+    "attic_name": "IRC Section R806.2 1:150 vs 1:300 Attic Ventilation Calculator",
+    "slug": "irc-section-r8062-1150-vs-1300-attic-ventilation-calculator-whole-house-fan-nfa-calculator",
+    "title": "IRC Section R806.2 1:150 vs 1:300 Attic Ventilation Calculator CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (4,800 CFM / 18.0 ACH), 1:750 attic exhaust Net Free Area (6.4 sq ft / 922 sq in NFA), and IRC R806.2 soffit/ridge vents for IRC Section R806.2 1:150 vs 1:300 Attic Ventilation Calculator.",
+    "sqft": 2000,
+    "cfm": 4800,
+    "nfa_sqft": 6.4,
+    "nfa_sqin": 922,
+    "date": "2026-11-14"
+  },
+  {
+    "attic_name": "16\" × 8\" Undereave Soffit Vent Count & Baffle Calculator",
+    "slug": "16-8-undereave-soffit-vent-count-baffle-calculator-whole-house-fan-nfa-calculator",
+    "title": "16\" × 8\" Undereave Soffit Vent Count & Baffle Calculator CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (4,800 CFM / 18.0 ACH), 1:750 attic exhaust Net Free Area (6.4 sq ft / 922 sq in NFA), and IRC R806.2 soffit/ridge vents for 16\" × 8\" Undereave Soffit Vent Count & Baffle Calculator.",
+    "sqft": 2000,
+    "cfm": 4800,
+    "nfa_sqft": 6.4,
+    "nfa_sqin": 922,
+    "date": "2026-11-14"
+  },
+  {
+    "attic_name": "1:750 CFM Whole-House Fan Attic Exhaust Louver & Screen Rule",
+    "slug": "1750-cfm-whole-house-fan-attic-exhaust-louver-screen-rule-whole-house-fan-nfa-calculator",
+    "title": "1:750 CFM Whole-House Fan Attic Exhaust Louver & Screen Rule CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,440 CFM / 16.5 ACH), 1:750 attic exhaust Net Free Area (7.3 sq ft / 1,051 sq in NFA), and IRC R806.2 soffit/ridge vents for 1:750 CFM Whole-House Fan Attic Exhaust Louver & Screen Rule.",
+    "sqft": 2200,
+    "cfm": 5440,
+    "nfa_sqft": 7.3,
+    "nfa_sqin": 1051,
+    "date": "2026-11-14"
   }
 ]
