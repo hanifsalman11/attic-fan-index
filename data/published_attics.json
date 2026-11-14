@@ -328,5 +328,38 @@
     "nfa_sqft": 7.3,
     "nfa_sqin": 1051,
     "date": "2026-11-14"
+  },
+  {
+    "attic_name": "What  Whole House Fan Do I Need",
+    "slug": "what-whole-house-fan-do-i-need-whole-house-fan-nfa-calculator",
+    "title": "What  Whole House Fan Do I Need CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for What  Whole House Fan Do I Need.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-14"
+  },
+  {
+    "attic_name": "What  Whole House Fan",
+    "slug": "what-whole-house-fan-whole-house-fan-nfa-calculator",
+    "title": "What  Whole House Fan CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for What  Whole House Fan.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-14"
+  },
+  {
+    "attic_name": "2000 Sq Ft House",
+    "slug": "2000-sq-ft-house-whole-house-fan-nfa-calculator",
+    "title": "2000 Sq Ft House CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for 2000 Sq Ft House.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-14"
   }
 ]
