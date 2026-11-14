@@ -361,5 +361,38 @@
     "nfa_sqft": 6.7,
     "nfa_sqin": 965,
     "date": "2026-11-14"
+  },
+  {
+    "attic_name": "Quietcool Whole House Fan Price",
+    "slug": "quietcool-whole-house-fan-price-whole-house-fan-nfa-calculator",
+    "title": "Quietcool Whole House Fan Price CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Quietcool Whole House Fan Price.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-14"
+  },
+  {
+    "attic_name": "Quietcool Whole House Fan Installation",
+    "slug": "quietcool-whole-house-fan-installation-whole-house-fan-nfa-calculator",
+    "title": "Quietcool Whole House Fan Installation CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Quietcool Whole House Fan Installation.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-14"
+  },
+  {
+    "attic_name": "Quietcool Whole House Fan Reviews",
+    "slug": "quietcool-whole-house-fan-reviews-whole-house-fan-nfa-calculator",
+    "title": "Quietcool Whole House Fan Reviews CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Quietcool Whole House Fan Reviews.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-14"
   }
 ]
