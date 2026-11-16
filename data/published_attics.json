@@ -460,5 +460,38 @@
     "nfa_sqft": 6.7,
     "nfa_sqin": 965,
     "date": "2026-11-15"
+  },
+  {
+    "attic_name": "Quietcool Whole House Fan Wifi",
+    "slug": "quietcool-whole-house-fan-wifi-whole-house-fan-nfa-calculator",
+    "title": "Quietcool Whole House Fan Wifi CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Quietcool Whole House Fan Wifi.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-16"
+  },
+  {
+    "attic_name": "Attic Ventilation  Canada",
+    "slug": "attic-ventilation-canada-whole-house-fan-nfa-calculator",
+    "title": "Attic Ventilation  Canada CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Attic Ventilation  Canada.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-16"
+  },
+  {
+    "attic_name": "Attic Ventilation  1 150",
+    "slug": "attic-ventilation-1-150-whole-house-fan-nfa-calculator",
+    "title": "Attic Ventilation  1 150 CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Attic Ventilation  1 150.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-16"
   }
 ]
