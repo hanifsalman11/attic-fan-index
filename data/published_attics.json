@@ -559,5 +559,38 @@
     "nfa_sqft": 6.7,
     "nfa_sqin": 965,
     "date": "2026-11-17"
+  },
+  {
+    "attic_name": "How Many Soffit Vents Do I Need",
+    "slug": "how-many-soffit-vents-do-i-need-whole-house-fan-nfa-calculator",
+    "title": "How Many Soffit Vents Do I Need CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for How Many Soffit Vents Do I Need.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-17"
+  },
+  {
+    "attic_name": "How Many Soffit Vents Do I Need Uk",
+    "slug": "how-many-soffit-vents-do-i-need-uk-whole-house-fan-nfa-calculator",
+    "title": "How Many Soffit Vents Do I Need Uk CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for How Many Soffit Vents Do I Need Uk.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-17"
+  },
+  {
+    "attic_name": "How Many Soffit Vents Are Needed",
+    "slug": "how-many-soffit-vents-are-needed-whole-house-fan-nfa-calculator",
+    "title": "How Many Soffit Vents Are Needed CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for How Many Soffit Vents Are Needed.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-17"
   }
 ]
