@@ -526,5 +526,38 @@
     "nfa_sqft": 6.7,
     "nfa_sqin": 965,
     "date": "2026-11-16"
+  },
+  {
+    "attic_name": "Gable Vent",
+    "slug": "gable-vent-whole-house-fan-nfa-calculator",
+    "title": "Gable Vent CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Gable Vent.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-17"
+  },
+  {
+    "attic_name": "Roof Vent  Canada",
+    "slug": "roof-vent-canada-whole-house-fan-nfa-calculator",
+    "title": "Roof Vent  Canada CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Roof Vent  Canada.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-17"
+  },
+  {
+    "attic_name": "Roof Vent  Square Feet",
+    "slug": "roof-vent-square-feet-whole-house-fan-nfa-calculator",
+    "title": "Roof Vent  Square Feet CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Roof Vent  Square Feet.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-17"
   }
 ]
