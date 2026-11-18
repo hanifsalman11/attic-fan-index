@@ -592,5 +592,38 @@
     "nfa_sqft": 6.7,
     "nfa_sqin": 965,
     "date": "2026-11-17"
+  },
+  {
+    "attic_name": "How Many Soffit Vents Should I Have",
+    "slug": "how-many-soffit-vents-should-i-have-whole-house-fan-nfa-calculator",
+    "title": "How Many Soffit Vents Should I Have CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for How Many Soffit Vents Should I Have.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-18"
+  },
+  {
+    "attic_name": "How Many Soffit Vents",
+    "slug": "how-many-soffit-vents-whole-house-fan-nfa-calculator",
+    "title": "How Many Soffit Vents CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for How Many Soffit Vents.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-18"
+  },
+  {
+    "attic_name": "How Far Apart Should Soffit Vents Be",
+    "slug": "how-far-apart-should-soffit-vents-be-whole-house-fan-nfa-calculator",
+    "title": "How Far Apart Should Soffit Vents Be CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for How Far Apart Should Soffit Vents Be.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-18"
   }
 ]
