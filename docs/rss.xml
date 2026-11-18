@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/attic-fan-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>1,000 Sq Ft Home in Desert / Hot-Dry Climate (3.0 CFM/ft²) CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/attic-fan-index/1000-sq-ft-home-in-desert-hot-dry-climate-30-cfmft-whole-house-fan-nfa-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/attic-fan-index/1000-sq-ft-home-in-desert-hot-dry-climate-30-cfmft-whole-house-fan-nfa-calculator.html</guid>
+      <description>Calculate exact whole-house fan airflow (3,000 CFM / 20.0 ACH), 1:750 attic exhaust Net Free Area (4.0 sq ft / 576 sq in NFA), and IRC R806.2 soffit/ridge vents for 1,000 Sq Ft Home in Desert / Hot-Dry Climate (3.0 CFM/ft²).</description>
+    </item>
+    <item>
       <title>How Far Apart Should Soffit Vents Be CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/attic-fan-index/how-far-apart-should-soffit-vents-be-whole-house-fan-nfa-calculator.html</link>
       <guid>https://hanifsalman11.github.io/attic-fan-index/how-far-apart-should-soffit-vents-be-whole-house-fan-nfa-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/attic-fan-index/16-8-undereave-soffit-vent-count-baffle-calculator-whole-house-fan-nfa-calculator.html</link>
       <guid>https://hanifsalman11.github.io/attic-fan-index/16-8-undereave-soffit-vent-count-baffle-calculator-whole-house-fan-nfa-calculator.html</guid>
       <description>Calculate exact whole-house fan airflow (4,800 CFM / 18.0 ACH), 1:750 attic exhaust Net Free Area (6.4 sq ft / 922 sq in NFA), and IRC R806.2 soffit/ridge vents for 16" × 8" Undereave Soffit Vent Count & Baffle Calculator.</description>
-    </item>
-    <item>
-      <title>IRC Section R806.2 1:150 vs 1:300 Attic Ventilation Calculator CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/attic-fan-index/irc-section-r8062-1150-vs-1300-attic-ventilation-calculator-whole-house-fan-nfa-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/attic-fan-index/irc-section-r8062-1150-vs-1300-attic-ventilation-calculator-whole-house-fan-nfa-calculator.html</guid>
-      <description>Calculate exact whole-house fan airflow (4,800 CFM / 18.0 ACH), 1:750 attic exhaust Net Free Area (6.4 sq ft / 922 sq in NFA), and IRC R806.2 soffit/ridge vents for IRC Section R806.2 1:150 vs 1:300 Attic Ventilation Calculator.</description>
     </item>
   </channel>
 </rss>
