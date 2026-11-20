@@ -669,5 +669,16 @@
     "nfa_sqft": 5.2,
     "nfa_sqin": 749,
     "date": "2026-11-20"
+  },
+  {
+    "attic_name": "1,300 Sq Ft Home in Warm / Coastal Climate (2.5 CFM/ft²)",
+    "slug": "1300-sq-ft-home-in-warm-coastal-climate-25-cfmft-whole-house-fan-nfa-calculator",
+    "title": "1,300 Sq Ft Home in Warm / Coastal Climate (2.5 CFM/ft²) CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (3,250 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (4.3 sq ft / 619 sq in NFA), and IRC R806.2 soffit/ridge vents for 1,300 Sq Ft Home in Warm / Coastal Climate (2.5 CFM/ft²).",
+    "sqft": 1300,
+    "cfm": 3250,
+    "nfa_sqft": 4.3,
+    "nfa_sqin": 619,
+    "date": "2026-11-20"
   }
 ]
