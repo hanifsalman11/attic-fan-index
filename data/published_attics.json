@@ -658,5 +658,16 @@
     "nfa_sqft": 2.7,
     "nfa_sqin": 389,
     "date": "2026-11-19"
+  },
+  {
+    "attic_name": "1,300 Sq Ft Home in Desert / Hot-Dry Climate (3.0 CFM/ft²)",
+    "slug": "1300-sq-ft-home-in-desert-hot-dry-climate-30-cfmft-whole-house-fan-nfa-calculator",
+    "title": "1,300 Sq Ft Home in Desert / Hot-Dry Climate (3.0 CFM/ft²) CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (3,900 CFM / 20.0 ACH), 1:750 attic exhaust Net Free Area (5.2 sq ft / 749 sq in NFA), and IRC R806.2 soffit/ridge vents for 1,300 Sq Ft Home in Desert / Hot-Dry Climate (3.0 CFM/ft²).",
+    "sqft": 1300,
+    "cfm": 3900,
+    "nfa_sqft": 5.2,
+    "nfa_sqin": 749,
+    "date": "2026-11-20"
   }
 ]
