@@ -746,5 +746,16 @@
     "nfa_sqft": 6.3,
     "nfa_sqin": 907,
     "date": "2026-11-24"
+  },
+  {
+    "attic_name": "1,900 Sq Ft Home in Moderate / Mountain Climate (2.0 CFM/ft²)",
+    "slug": "1900-sq-ft-home-in-moderate-mountain-climate-20-cfmft-whole-house-fan-nfa-calculator",
+    "title": "1,900 Sq Ft Home in Moderate / Mountain Climate (2.0 CFM/ft²) CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (3,800 CFM / 13.3 ACH), 1:750 attic exhaust Net Free Area (5.1 sq ft / 734 sq in NFA), and IRC R806.2 soffit/ridge vents for 1,900 Sq Ft Home in Moderate / Mountain Climate (2.0 CFM/ft²).",
+    "sqft": 1900,
+    "cfm": 3800,
+    "nfa_sqft": 5.1,
+    "nfa_sqin": 734,
+    "date": "2026-11-24"
   }
 ]

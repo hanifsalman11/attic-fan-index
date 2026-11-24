@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/attic-fan-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>1,900 Sq Ft Home in Moderate / Mountain Climate (2.0 CFM/ft²) CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/attic-fan-index/1900-sq-ft-home-in-moderate-mountain-climate-20-cfmft-whole-house-fan-nfa-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/attic-fan-index/1900-sq-ft-home-in-moderate-mountain-climate-20-cfmft-whole-house-fan-nfa-calculator.html</guid>
+      <description>Calculate exact whole-house fan airflow (3,800 CFM / 13.3 ACH), 1:750 attic exhaust Net Free Area (5.1 sq ft / 734 sq in NFA), and IRC R806.2 soffit/ridge vents for 1,900 Sq Ft Home in Moderate / Mountain Climate (2.0 CFM/ft²).</description>
+    </item>
+    <item>
       <title>1,900 Sq Ft Home in Warm / Coastal Climate (2.5 CFM/ft²) CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/attic-fan-index/1900-sq-ft-home-in-warm-coastal-climate-25-cfmft-whole-house-fan-nfa-calculator.html</link>
       <guid>https://hanifsalman11.github.io/attic-fan-index/1900-sq-ft-home-in-warm-coastal-climate-25-cfmft-whole-house-fan-nfa-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/attic-fan-index/quietcool-whole-house-fan-warranty-whole-house-fan-nfa-calculator.html</link>
       <guid>https://hanifsalman11.github.io/attic-fan-index/quietcool-whole-house-fan-warranty-whole-house-fan-nfa-calculator.html</guid>
       <description>Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Quietcool Whole House Fan Warranty.</description>
-    </item>
-    <item>
-      <title>Quietcool Whole House Fan App CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/attic-fan-index/quietcool-whole-house-fan-app-whole-house-fan-nfa-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/attic-fan-index/quietcool-whole-house-fan-app-whole-house-fan-nfa-calculator.html</guid>
-      <description>Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Quietcool Whole House Fan App.</description>
     </item>
   </channel>
 </rss>
