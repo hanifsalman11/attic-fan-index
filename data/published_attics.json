@@ -779,5 +779,27 @@
     "nfa_sqft": 7.0,
     "nfa_sqin": 1008,
     "date": "2026-11-25"
+  },
+  {
+    "attic_name": "Quietcool Whole House Fan Smart Control",
+    "slug": "quietcool-whole-house-fan-smart-control-whole-house-fan-nfa-calculator",
+    "title": "Quietcool Whole House Fan Smart Control CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Quietcool Whole House Fan Smart Control.",
+    "sqft": 2000,
+    "cfm": 5000,
+    "nfa_sqft": 6.7,
+    "nfa_sqin": 965,
+    "date": "2026-11-25"
+  },
+  {
+    "attic_name": "2,100 Sq Ft Home in Moderate / Mountain Climate (2.0 CFM/ft²)",
+    "slug": "2100-sq-ft-home-in-moderate-mountain-climate-20-cfmft-whole-house-fan-nfa-calculator",
+    "title": "2,100 Sq Ft Home in Moderate / Mountain Climate (2.0 CFM/ft²) CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)",
+    "description": "Calculate exact whole-house fan airflow (4,200 CFM / 13.3 ACH), 1:750 attic exhaust Net Free Area (5.6 sq ft / 806 sq in NFA), and IRC R806.2 soffit/ridge vents for 2,100 Sq Ft Home in Moderate / Mountain Climate (2.0 CFM/ft²).",
+    "sqft": 2100,
+    "cfm": 4200,
+    "nfa_sqft": 5.6,
+    "nfa_sqin": 806,
+    "date": "2026-11-25"
   }
 ]
