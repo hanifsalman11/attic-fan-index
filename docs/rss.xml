@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/attic-fan-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>2,600 Sq Ft Home in Desert / Hot-Dry Climate (3.0 CFM/ft²) CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/attic-fan-index/2600-sq-ft-home-in-desert-hot-dry-climate-30-cfmft-whole-house-fan-nfa-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/attic-fan-index/2600-sq-ft-home-in-desert-hot-dry-climate-30-cfmft-whole-house-fan-nfa-calculator.html</guid>
+      <description>Calculate exact whole-house fan airflow (7,800 CFM / 20.0 ACH), 1:750 attic exhaust Net Free Area (10.4 sq ft / 1,498 sq in NFA), and IRC R806.2 soffit/ridge vents for 2,600 Sq Ft Home in Desert / Hot-Dry Climate (3.0 CFM/ft²).</description>
+    </item>
+    <item>
       <title>2,300 Sq Ft Home in Moderate / Mountain Climate (2.0 CFM/ft²) CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/attic-fan-index/2300-sq-ft-home-in-moderate-mountain-climate-20-cfmft-whole-house-fan-nfa-calculator.html</link>
       <guid>https://hanifsalman11.github.io/attic-fan-index/2300-sq-ft-home-in-moderate-mountain-climate-20-cfmft-whole-house-fan-nfa-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/attic-fan-index/roof-vent-whole-house-fan-nfa-calculator.html</link>
       <guid>https://hanifsalman11.github.io/attic-fan-index/roof-vent-whole-house-fan-nfa-calculator.html</guid>
       <description>Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Roof Vent.</description>
-    </item>
-    <item>
-      <title>Attic Ventilation Calculation Formula CFM, Attic NFA Vent & IRC R806.2 Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/attic-fan-index/attic-ventilation-calculation-formula-whole-house-fan-nfa-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/attic-fan-index/attic-ventilation-calculation-formula-whole-house-fan-nfa-calculator.html</guid>
-      <description>Calculate exact whole-house fan airflow (5,000 CFM / 16.7 ACH), 1:750 attic exhaust Net Free Area (6.7 sq ft / 965 sq in NFA), and IRC R806.2 soffit/ridge vents for Attic Ventilation Calculation Formula.</description>
     </item>
   </channel>
 </rss>
